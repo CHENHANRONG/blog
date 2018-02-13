@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Create my blog via github and jekyll
+title: Create my blog
+description: Create my blog via github and jekyll
 tags: [howto,blog,jekyll]
 ---
 <div class="6u$ 12u$(small)">
