@@ -14,7 +14,10 @@ categories: jekyll
 		<li>follow the instructions to change the _config.yml file settings.</li>
 		<li>start blogging by following https://jekyllrb.com/docs/posts/</li>
 	</ol>
-		
+	
+</div>
+<div>
+    additional resources:
 </div>
     
 
