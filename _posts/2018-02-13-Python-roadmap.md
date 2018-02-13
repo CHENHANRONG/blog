@@ -7,8 +7,8 @@ categories: python
 ---
 
 
-{% highlight python linenos %}
+```python
 def test
   print('Hello world!')
 end
-{% endhighlight %}
+```
