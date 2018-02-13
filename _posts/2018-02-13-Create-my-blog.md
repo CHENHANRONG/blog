@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create my blog via github and jekyll
+tags: howto,blog,jekyll
 ---
 Steps:
 0. create github account and get a github space
