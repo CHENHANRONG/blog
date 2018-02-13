@@ -3,7 +3,7 @@ layout: post
 title: Create my blog
 description: Create my blog via github and jekyll
 tags: [howto,blog,jekyll]
-categories: [jekyll]
+categories:[jekyll]
 ---
 <div class="6u$ 12u$(small)">
     <h3>Steps:</h3>
