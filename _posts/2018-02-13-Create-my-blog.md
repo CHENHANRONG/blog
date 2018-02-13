@@ -1,3 +1,7 @@
+---
+layout: post
+title: Create my blog via github and jekyll
+---
 Steps:
 0. create github account and get a github space
 1. fork jekyll-theme-prologue theme from https://github.com/chrisbobbe/jekyll-theme-prologue
