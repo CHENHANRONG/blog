@@ -26,11 +26,11 @@ maturity and this will take some good amount of work. This course may be a bit c
 it will certainly be a very rewarding process for you.
 
 Tentative Course Outline:
-Basics of Vectors Spaces
-Linear Transformation and Matrices
-Systems of Linear Equations and Fundamental Subspaces
-Determinant
-Eigenvalues and Diagonalization
-Inner product Spaces, Orthogonality and Gram-Schmidt process
-Singular Value Decomposition
-Student Presentations (optional)
+* Basics of Vectors Spaces
+* Linear Transformation and Matrices
+* Systems of Linear Equations and Fundamental Subspaces
+* Determinant
+* Eigenvalues and Diagonalization
+* Inner product Spaces, Orthogonality and Gram-Schmidt process
+* Singular Value Decomposition
+* Student Presentations (optional)
