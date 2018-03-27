@@ -1,6 +1,6 @@
-Introduction to Linear Algebra
-Course Page(s):
-1. http://www4.ncsu.edu/~aaergur/teaching.html
+# Introduction to Linear Algebra
+### Course Page(s):
+http://www4.ncsu.edu/~aaergur/teaching.html
 ### Main References: 
 Linear Algebra and It’s Applications (Fourth Edition) by Gilbert Strang
 ### Additional resources:
